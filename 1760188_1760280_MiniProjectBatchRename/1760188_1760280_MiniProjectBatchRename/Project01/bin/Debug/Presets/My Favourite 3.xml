@@ -1,0 +1,13 @@
+﻿<Presets>
+	<Replace xmlns="True">
+		<Find_With>1920x1080 B</Find_With>
+		<Replace_With>B</Replace_With>
+	</Replace>
+	<NewCase xmlns="False">
+		<Select>0</Select>
+	</NewCase>
+	<Move xmlns="False">
+		<Select>0</Select>
+	</Move>
+	<Unique xmlns="False" />
+</Presets>

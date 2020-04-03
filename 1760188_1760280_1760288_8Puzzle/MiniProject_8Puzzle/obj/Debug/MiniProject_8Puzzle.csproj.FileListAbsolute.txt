@@ -1,0 +1,15 @@
+D:\Năm 2 - HK2\Lập Trình Windows\Đồ án\Đồ án 2\1760188_1760280_1760288_8Puzzle\MiniProject_8Puzzle\bin\Debug\MiniProject_8Puzzle.exe.config
+D:\Năm 2 - HK2\Lập Trình Windows\Đồ án\Đồ án 2\1760188_1760280_1760288_8Puzzle\MiniProject_8Puzzle\bin\Debug\MiniProject_8Puzzle.exe
+D:\Năm 2 - HK2\Lập Trình Windows\Đồ án\Đồ án 2\1760188_1760280_1760288_8Puzzle\MiniProject_8Puzzle\bin\Debug\MiniProject_8Puzzle.pdb
+D:\Năm 2 - HK2\Lập Trình Windows\Đồ án\Đồ án 2\1760188_1760280_1760288_8Puzzle\MiniProject_8Puzzle\obj\Debug\MiniProject_8Puzzle.csprojAssemblyReference.cache
+D:\Năm 2 - HK2\Lập Trình Windows\Đồ án\Đồ án 2\1760188_1760280_1760288_8Puzzle\MiniProject_8Puzzle\obj\Debug\MainWindow.g.cs
+D:\Năm 2 - HK2\Lập Trình Windows\Đồ án\Đồ án 2\1760188_1760280_1760288_8Puzzle\MiniProject_8Puzzle\obj\Debug\App.g.cs
+D:\Năm 2 - HK2\Lập Trình Windows\Đồ án\Đồ án 2\1760188_1760280_1760288_8Puzzle\MiniProject_8Puzzle\obj\Debug\MiniProject_8Puzzle_MarkupCompile.cache
+D:\Năm 2 - HK2\Lập Trình Windows\Đồ án\Đồ án 2\1760188_1760280_1760288_8Puzzle\MiniProject_8Puzzle\obj\Debug\MiniProject_8Puzzle_MarkupCompile.lref
+D:\Năm 2 - HK2\Lập Trình Windows\Đồ án\Đồ án 2\1760188_1760280_1760288_8Puzzle\MiniProject_8Puzzle\obj\Debug\MainWindow.baml
+D:\Năm 2 - HK2\Lập Trình Windows\Đồ án\Đồ án 2\1760188_1760280_1760288_8Puzzle\MiniProject_8Puzzle\obj\Debug\MiniProject_8Puzzle.g.resources
+D:\Năm 2 - HK2\Lập Trình Windows\Đồ án\Đồ án 2\1760188_1760280_1760288_8Puzzle\MiniProject_8Puzzle\obj\Debug\MiniProject_8Puzzle.Properties.Resources.resources
+D:\Năm 2 - HK2\Lập Trình Windows\Đồ án\Đồ án 2\1760188_1760280_1760288_8Puzzle\MiniProject_8Puzzle\obj\Debug\MiniProject_8Puzzle.csproj.GenerateResource.cache
+D:\Năm 2 - HK2\Lập Trình Windows\Đồ án\Đồ án 2\1760188_1760280_1760288_8Puzzle\MiniProject_8Puzzle\obj\Debug\MiniProject_8Puzzle.csproj.CoreCompileInputs.cache
+D:\Năm 2 - HK2\Lập Trình Windows\Đồ án\Đồ án 2\1760188_1760280_1760288_8Puzzle\MiniProject_8Puzzle\obj\Debug\MiniProject_8Puzzle.exe
+D:\Năm 2 - HK2\Lập Trình Windows\Đồ án\Đồ án 2\1760188_1760280_1760288_8Puzzle\MiniProject_8Puzzle\obj\Debug\MiniProject_8Puzzle.pdb

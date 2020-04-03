@@ -1,0 +1,13 @@
+﻿<Presets>
+	<Replace xmlns="True">
+		<Find_With>a</Find_With>
+		<Replace_With>b</Replace_With>
+	</Replace>
+	<NewCase xmlns="True">
+		<Select>0</Select>
+	</NewCase>
+	<Move xmlns="True">
+		<Select>0</Select>
+	</Move>
+	<Unique xmlns="False" />
+</Presets>
